@@ -1,7 +1,7 @@
 From 09cbea39d88f244e0a6b2ff8119de51924c9afe2 Mon Sep 17 00:00:00 2001
 From: Tarikur Rahaman <tarikur.rahaman@aurea.com>
 Date: Mon, 29 Apr 2019 02:18:20 +0000
-Subject: updgrade ena driver from 1.5.0 to 2.0.3
+Subject: [PATCH 3/4] updgrade ena driver from 1.5.0 to 2.0.3
 
 ---
  .../net/ethernet/amazon/ena/ena_admin_defs.h  | 425 +++++++++-------
